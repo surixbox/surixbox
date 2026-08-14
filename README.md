@@ -107,11 +107,11 @@ Converts WhatsApp chat exports into interactive visual stories. Landing page liv
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=surixbox&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=surixbox&theme=tokyonight&hide_border=true&layout=compact" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=surixbox&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=surixbox&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=surixbox&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Converts WhatsApp chat exports into interactive visual stories. Landing page liv
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=surixbox&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=surixbox&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <br/>
