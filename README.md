@@ -119,7 +119,7 @@ Converts WhatsApp chat exports into interactive visual stories. Landing page liv
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=surixbox&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=surixbox&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <br/>
