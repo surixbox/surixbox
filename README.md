@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=SURYAKIRAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Django%20REST%20Framework&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=SURYAKIRAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Javascript%20%C2%B7%20Django%20REST%20Framework&descAlignY=58&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Cut+manual+billing+work+by+40%25+%40+Techfifo;Built+RBAC+with+JWT+across+5%2B+permission+levels;Managed+500%2B+records+in+a+full+CRUD+system;Open+to+Full+Stack+%2F+Frontend+roles" />
 
